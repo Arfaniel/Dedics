@@ -12,5 +12,10 @@ namespace Dedics
         public string login { get; set; }
         public string pass { get; set; }
         public string city { get; set; }
+
+        public override string ToString()
+        {
+            return ip + ' ' + login + ' ' + pass;
+        }
     }
 }

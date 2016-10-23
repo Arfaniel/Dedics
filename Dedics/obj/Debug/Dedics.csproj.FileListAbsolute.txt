@@ -1,0 +1,6 @@
+c:\users\vivi\documents\visual studio 2015\Projects\Dedics\Dedics\bin\Debug\Dedics.exe.config
+c:\users\vivi\documents\visual studio 2015\Projects\Dedics\Dedics\bin\Debug\Dedics.exe
+c:\users\vivi\documents\visual studio 2015\Projects\Dedics\Dedics\bin\Debug\Dedics.pdb
+c:\users\vivi\documents\visual studio 2015\Projects\Dedics\Dedics\obj\Debug\Dedics.csprojResolveAssemblyReference.cache
+c:\users\vivi\documents\visual studio 2015\Projects\Dedics\Dedics\obj\Debug\Dedics.exe
+c:\users\vivi\documents\visual studio 2015\Projects\Dedics\Dedics\obj\Debug\Dedics.pdb
